@@ -103,7 +103,6 @@ results.append(player3.getGameResult())
 
 
 
-
 var min = results[0].attempts
 
 for result in results {
@@ -133,6 +132,3 @@ for result in results {
         print("Attempts: \(result.attempts)")
     }
 }
-
-
-
